@@ -1,0 +1,5 @@
+INSERT INTO Dashboard_Data (id,task_Name, task_Description, created_Date) VALUES (10001,'Design Frontend', 'Create UI components for the dashboard', '2024-12-20T10:15:00');
+INSERT INTO Dashboard_Data (id,task_Name, task_Description, created_Date) VALUES (10002,'Develop Backend API', 'Implement RESTful APIs for data processing', '2024-12-20T11:00:00'); 
+INSERT INTO Dashboard_Data (id,task_Name, task_Description, created_Date) VALUES (10003,'Integrate Database', 'Set up and configure the database connection', '2024-12-20T14:30:00'); 
+INSERT INTO Dashboard_Data (id,task_Name, task_Description, created_Date) VALUES (10004,'Testing Phase', 'Perform unit and integration testing', '2024-12-21T09:00:00'); 
+INSERT INTO Dashboard_Data (id,task_Name, task_Description, created_Date) VALUES (10005,'Deploy Application', 'Deploy the dashboard to the production environment', '2024-12-22T16:00:00');
